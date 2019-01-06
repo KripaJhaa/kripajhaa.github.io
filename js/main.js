@@ -1,5 +1,5 @@
 /*
-   Copyright 2014 Nebez Briefkani
+   Copyright 2017 kripa shankar jha
    floppybird - main.js
 
    Licensed under the Apache License, Version 2.0 (the "License");
